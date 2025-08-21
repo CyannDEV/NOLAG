@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/9PNeKRoY/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CyannDEV/BALAGBAGNALUA/refs/heads/main/ZENKIHUB"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/kv5MEx4h4WwWxB0u/raw", true))()
